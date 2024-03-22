@@ -1,0 +1,1 @@
+My solution to the Kaggle playground Steel Fault Detection https://www.kaggle.com/competitions/playground-series-s4e3/overview. 
